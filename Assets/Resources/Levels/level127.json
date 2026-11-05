@@ -1,0 +1,30 @@
+{
+  "id": "127",
+  "name": "7-7",
+  "order": 127,
+  "width": 8,
+  "height": 10,
+  "maxMirrors": 4,
+  "maxPrisms": 18,
+  "objects": [
+    {"type": "target", "x": 1, "y": 1, "color": "orange"},
+    {"type": "target", "x": 4, "y": 1, "color": "green"},
+    {"type": "wall", "x": 7, "y": 1},
+    {"type": "emitter", "x": 8, "y": 1, "color": "blue", "dir": 225},
+    {"type": "wall", "x": 6, "y": 2},
+    {"type": "wall", "x": 5, "y": 3},
+    {"type": "emitter", "x": 8, "y": 3, "color": "yellow", "dir": 225},
+    {"type": "target", "x": 1, "y": 4, "color": "purple"},
+    {"type": "wall", "x": 8, "y": 4},
+    {"type": "wall", "x": 7, "y": 5},
+    {"type": "wall", "x": 2, "y": 6},
+    {"type": "wall", "x": 1, "y": 7},
+    {"type": "target", "x": 8, "y": 7, "color": "purple"},
+    {"type": "wall", "x": 4, "y": 8},
+    {"type": "emitter", "x": 1, "y": 9, "color": "red", "dir": 45},
+    {"type": "wall", "x": 3, "y": 9},
+    {"type": "wall", "x": 2, "y": 10},
+    {"type": "target", "x": 5, "y": 10, "color": "green"},
+    {"type": "target", "x": 8, "y": 10, "color": "orange"}
+  ]
+}

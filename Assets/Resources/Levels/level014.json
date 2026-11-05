@@ -1,0 +1,24 @@
+{
+  "id": "014",
+  "name": "1-14",
+  "order": 14,
+  "width": 8,
+  "height": 10,
+  "maxMirrors": 10,
+  "maxPrisms": 6,
+  "objects": [
+    {"type": "emitter", "x": 5, "y": 1, "color": "yellow", "dir": 270},
+    {"type": "emitter", "x": 8, "y": 2, "color": "red", "dir": 180},
+    {"type": "emitter", "x": 1, "y": 3, "color": "blue", "dir": 0},
+    {"type": "wall", "x": 1, "y": 4},
+    {"type": "wall", "x": 2, "y": 4},
+    {"type": "wall", "x": 3, "y": 4},
+    {"type": "wall", "x": 4, "y": 4},
+    {"type": "wall", "x": 6, "y": 4},
+    {"type": "wall", "x": 7, "y": 4},
+    {"type": "wall", "x": 8, "y": 4},
+    {"type": "target", "x": 1, "y": 5, "color": "green"},
+    {"type": "target", "x": 8, "y": 5, "color": "orange"},
+    {"type": "target", "x": 5, "y": 10, "color": "yellow"}
+  ]
+}

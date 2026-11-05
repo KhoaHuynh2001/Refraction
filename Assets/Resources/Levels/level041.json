@@ -1,0 +1,24 @@
+{
+  "id": "041",
+  "name": "3-1",
+  "order": 41,
+  "width": 8,
+  "height": 10,
+  "maxMirrors": 2,
+  "maxPrisms": 0,
+  "tutorial": ["level41.1", "level41.2", "level41.3"],
+  "objects": [
+    {"type": "emitter", "x": 1, "y": 2, "color": "orange", "dir": 0},
+    {"type": "portal", "x": 5, "y": 4},
+    {"type": "wall", "x": 1, "y": 5},
+    {"type": "wall", "x": 2, "y": 5},
+    {"type": "wall", "x": 3, "y": 5},
+    {"type": "wall", "x": 4, "y": 5},
+    {"type": "wall", "x": 5, "y": 5},
+    {"type": "wall", "x": 6, "y": 5},
+    {"type": "wall", "x": 7, "y": 5},
+    {"type": "wall", "x": 8, "y": 5},
+    {"type": "portal", "x": 5, "y": 6},
+    {"type": "target", "x": 5, "y": 9, "color": "orange"}
+  ]
+}

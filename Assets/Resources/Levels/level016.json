@@ -1,0 +1,21 @@
+{
+  "id": "016",
+  "name": "1-16",
+  "order": 16,
+  "width": 8,
+  "height": 10,
+  "maxMirrors": 6,
+  "maxPrisms": 12,
+  "objects": [
+    {"type": "emitter", "x": 8, "y": 1, "color": "orange", "dir": 225},
+    {"type": "target", "x": 5, "y": 2, "color": "purple"},
+    {"type": "wall", "x": 6, "y": 2},
+    {"type": "wall", "x": 7, "y": 3},
+    {"type": "target", "x": 7, "y": 4, "color": "purple"},
+    {"type": "target", "x": 2, "y": 7, "color": "orange"},
+    {"type": "wall", "x": 2, "y": 8},
+    {"type": "wall", "x": 3, "y": 9},
+    {"type": "target", "x": 4, "y": 9, "color": "orange"},
+    {"type": "emitter", "x": 1, "y": 10, "color": "purple", "dir": 45}
+  ]
+}

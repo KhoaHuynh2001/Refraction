@@ -1,0 +1,24 @@
+{
+  "id": "021",
+  "name": "2-1",
+  "order": 21,
+  "width": 8,
+  "height": 10,
+  "maxMirrors": 4,
+  "maxPrisms": 0,
+  "tutorial": ["level21.1", "level21.2", "level21.3"],
+  "objects": [
+    {"type": "emitter", "x": 2, "y": 1, "color": "blue", "dir": 0},
+    {"type": "target", "x": 8, "y": 2, "color": "green"},
+    {"type": "switch", "x": 7, "y": 4, "color": "blue"},
+    {"type": "wall", "x": 1, "y": 5},
+    {"type": "wall", "x": 2, "y": 5},
+    {"type": "door", "x": 3, "y": 5, "color": "blue"},
+    {"type": "wall", "x": 4, "y": 5},
+    {"type": "wall", "x": 5, "y": 5},
+    {"type": "wall", "x": 6, "y": 5},
+    {"type": "wall", "x": 7, "y": 5},
+    {"type": "wall", "x": 8, "y": 5},
+    {"type": "emitter", "x": 3, "y": 10, "color": "green", "dir": 90}
+  ]
+}

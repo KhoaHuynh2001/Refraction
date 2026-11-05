@@ -1,0 +1,14 @@
+{
+  "id": "001",
+  "name": "1-1",
+  "order": 1,
+  "width": 8,
+  "height": 10,
+  "maxMirrors": 2,
+  "maxPrisms": 0,
+  "tutorial": ["level1.1", "level1.2", "level1.3"],
+  "objects": [
+    {"type": "emitter", "x": 7, "y": 3, "color": "green", "dir": 225},
+    {"type": "target", "x": 2, "y": 6, "color": "green"}
+  ]
+}

@@ -1,0 +1,31 @@
+{
+  "id": "024",
+  "name": "2-4",
+  "order": 24,
+  "width": 8,
+  "height": 10,
+  "maxMirrors": 8,
+  "maxPrisms": 4,
+  "objects": [
+    {"type": "emitter", "x": 8, "y": 1, "color": "red", "dir": 270},
+    {"type": "switch", "x": 1, "y": 3, "color": "red"},
+    {"type": "wall", "x": 1, "y": 4},
+    {"type": "wall", "x": 2, "y": 4},
+    {"type": "wall", "x": 3, "y": 4},
+    {"type": "wall", "x": 4, "y": 4},
+    {"type": "wall", "x": 5, "y": 4},
+    {"type": "wall", "x": 2, "y": 5},
+    {"type": "target", "x": 3, "y": 5, "color": "blue"},
+    {"type": "door", "x": 6, "y": 5, "color": "blue"},
+    {"type": "door", "x": 3, "y": 6, "color": "red"},
+    {"type": "target", "x": 6, "y": 6, "color": "red"},
+    {"type": "wall", "x": 7, "y": 6},
+    {"type": "wall", "x": 4, "y": 7},
+    {"type": "wall", "x": 5, "y": 7},
+    {"type": "wall", "x": 6, "y": 7},
+    {"type": "wall", "x": 7, "y": 7},
+    {"type": "wall", "x": 8, "y": 7},
+    {"type": "switch", "x": 8, "y": 8, "color": "blue"},
+    {"type": "emitter", "x": 1, "y": 10, "color": "blue", "dir": 90}
+  ]
+}
